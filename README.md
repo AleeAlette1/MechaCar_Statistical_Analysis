@@ -18,13 +18,13 @@
 ![Suspension_Coils_Cumulative_T-Test.jpg](MechaCar_Statistical_Analysis/images/Suspension_Coils_Cumulative_T-Test.jpg)
 
 - The results of the T-Test for the suspension coils for Lot 1 show no statistical difference from the population mean and the P-Value (1) is not low enough to reject the null hypothesis. 
-![Lot1_Summary.jpg](MechaCar_Statistical_Analysis/images/Lot1_Summary.jpg)
+![Lot1_T-Test.jpg](MechaCar_Statistical_Analysis/images/Lot1_T-Test.jpg)
 
 - The results of the T-Test for the suspension coils for Lot 2 show no statistical difference from the population mean and the P-Value (0.6072) is not low enough to reject the null hypothesis.
-![Lot2_Summary.jpg](MechaCar_Statistical_Analysis/images/Lot2_Summary.jpg)
+![Lot2_T-Test.jpg](MechaCar_Statistical_Analysis/images/Lot2_T-Test.jpg)
 
 - The results of the T-Test for the suspension coils for Lot 3 show there is a small statistical difference from the population mean and the P-Value (0.04168) is just low enough to reject the null hypothesis. 
-![Lot3_Summary.jpg](MechaCar_Statistical_Analysis/images/Lot3_Summary.jpg)
+![Lot3_T-Test.jpg](MechaCar_Statistical_Analysis/images/Lot3_T-Test.jpg)
 
 ## Study Design: MechaCar vs Competition
 - There are many factors that consumers take into consideration when evaluating a car to purchase. Considering inflation and the high costs of living at the moment, a consumer will be looking to buy a car that is economical in terms of cost, fuel efficiency, maintenance costs and long-term reliability.
